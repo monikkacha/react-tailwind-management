@@ -17,7 +17,6 @@ const App = () => {
             <Process />
             <Grow />
             <EditionalInfo />
-            <Testimonial />
             <ProjectManagement />
             <LatestBlogPost />
             <WhyChooseUs />
